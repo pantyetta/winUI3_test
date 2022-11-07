@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KeyboardHook_test (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "KeyboardHook_test (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
